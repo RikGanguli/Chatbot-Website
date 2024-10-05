@@ -64,8 +64,5 @@
 
 <p>To use the BlenderBot model, we rely on the Hugging Face Transformers library. The relevant model is loaded in the backend Flask server and is used to generate replies based on user inputs and conversation history.</p>
 
-<h2>Screenshots</h2>
-
-
 <h2>Credits</h2>
 <p>Developed by <strong>Rik Ganguli Biswas</strong> as a part of the IBM AI Developer Professional Certificate</p>
